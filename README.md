@@ -1,4 +1,4 @@
-# f5-icontrol-rest
+# List of F5 iControl REST API Endpoints
 
 As I could not find a complete API Reference for the F5 iControl REST API, I created a list myself.
 This list is not (yet) complete. I created it with the help of an API crawler and added manually some endpoints extracted from the F5 documentation.
